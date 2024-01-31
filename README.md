@@ -34,6 +34,7 @@
 9. Deprecate transcoding functionality
 10. Deprecate frame fragmentation
 11. Require Basic Offset Table for multi-frame instances
+12. Protocol Validation test suite to assure DICOM V4 compliance.   
 
 ### Breaking Changes
 
